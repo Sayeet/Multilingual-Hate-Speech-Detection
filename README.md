@@ -19,3 +19,5 @@ https://colab.research.google.com/drive/1d0XNaWXKQjtz4zterP0Yg_RuLjdOhsNg?usp=sh
 Here is the link to the coressponding article:
 https://medium.com/@ss_44790/how-to-stoping-hate-with-machine-learning-4e0277a98be3
 
+Here is the link to the dataset:
+https://www.kaggle.com/ludovick/jigsawtanslatedgoogle
