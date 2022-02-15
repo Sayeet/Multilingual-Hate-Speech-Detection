@@ -8,7 +8,7 @@ If you have any questions or would like to get in touch please email me at:
 ss@tambo.li
 
 
-Quick Links:
+**Quick Links:**
 
 Here is the link to the demo of the project:
 https://youtu.be/UAIHnJe0VSY 
