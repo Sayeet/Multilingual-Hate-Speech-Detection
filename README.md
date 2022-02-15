@@ -4,6 +4,10 @@ A DistillBert model that can detect hate speech in 7 different languages
 This model can detect hate speech in 7 different languges; english, spanish, french, italan, portugeesem russian, and turkish.
 
 
+If you have any questions or would like to get in touch please email me at:
+ss@tambo.li
+
+
 Quick Links:
 
 Here is the link to the demo of the project:
