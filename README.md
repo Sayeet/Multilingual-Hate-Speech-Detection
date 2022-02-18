@@ -16,7 +16,7 @@ https://youtu.be/UAIHnJe0VSY
 Here is the link to the google colab verison:
 https://colab.research.google.com/drive/1d0XNaWXKQjtz4zterP0Yg_RuLjdOhsNg?usp=sharing 
 
-Here is the link to the coressponding article:
+Here is the link to the corresponding article:
 https://medium.com/@ss_44790/how-to-stoping-hate-with-machine-learning-4e0277a98be3
 
 Here is the link to the dataset:
